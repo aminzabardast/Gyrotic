@@ -1,9 +1,9 @@
 {
-    "recommendations": [
-        "streetsidesoftware.code-spell-checker",
-        "esbenp.prettier-vscode",
-        "jgclark.vscode-todo-highlight",
-        "PKief.material-icon-theme",
-        "GitHub.vscode-pull-request-github"
-    ]
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "jgclark.vscode-todo-highlight",
+    "PKief.material-icon-theme",
+    "GitHub.vscode-pull-request-github"
+  ]
 }

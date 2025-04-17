@@ -1,22 +1,25 @@
 {
-    "cSpell.words": [
-        "apdisk",
-        "donotpresent",
-        "dotenv",
-        "eslintcache",
-        "fseventsd",
-        "Gyrotic",
-        "icns",
-        "jscoverage",
-        "jspm",
-        "longpress",
-        "Microbundle",
-        "nuxt",
-        "pids",
-        "stylelintcache",
-        "timemachine",
-        "vuepress",
-        "wscript",
-        "Zabardast"
-    ]
+  "cSpell.words": [
+    "apdisk",
+    "donotpresent",
+    "dotenv",
+    "eslintcache",
+    "fseventsd",
+    "Gyrotic",
+    "icns",
+    "jscoverage",
+    "jspm",
+    "longpress",
+    "Microbundle",
+    "nuxt",
+    "pids",
+    "stylelintcache",
+    "timemachine",
+    "vuepress",
+    "wscript",
+    "Zabardast"
+  ],
+  "editor.indentSize": 2,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true
 }
