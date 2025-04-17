@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for building elegant, customizable radial menus on touch screens.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rollup --config"
   },
   "keywords": [],
   "author": {
@@ -12,5 +12,8 @@
     "url": "https://AminZabardast.com"
   },
   "license": "MIT",
-  "packageManager": "pnpm@10.8.1"
+  "packageManager": "pnpm@10.8.1",
+  "devDependencies": {
+    "rollup": "^4.40.0"
+  }
 }
