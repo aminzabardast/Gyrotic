@@ -1,7 +1,11 @@
 {
   "name": "gyrotic",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A lightweight JavaScript library for building elegant, customizable radial menus on touch screens.",
+  "main": "dist/main.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "rollup --config"
   },
