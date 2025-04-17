@@ -1,0 +1,16 @@
+{
+  "name": "gyrotic",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for building elegant, customizable radial menus on touch screens.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Amin Zabardast",
+    "email": "aminzabardast@gmail.com",
+    "url": "https://AminZabardast.com"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@10.8.1"
+}
