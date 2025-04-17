@@ -9,7 +9,14 @@
   "scripts": {
     "build": "rollup --config"
   },
-  "keywords": [],
+  "keywords": [
+    "radial-menu",
+    "touch-screen",
+    "customizable",
+    "lightweight",
+    "javascript-library",
+    "gyrotic"
+  ],
   "author": {
     "name": "Amin Zabardast",
     "email": "aminzabardast@gmail.com",
