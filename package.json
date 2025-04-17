@@ -1,6 +1,6 @@
 {
   "name": "gyrotic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight JavaScript library for building elegant, customizable radial menus on touch screens.",
   "main": "dist/main.js",
   "files": [
