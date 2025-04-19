@@ -2,12 +2,15 @@
   "name": "gyrotic",
   "version": "0.0.2",
   "description": "A lightweight JavaScript library for building elegant, customizable radial menus on touch screens.",
-  "main": "dist/main.js",
+  "main": "dist/gyrotic.cjs",
+  "types": "dist/gyrotic.d.ts",
+  "module": "dist/gyrotic.mjs",
   "files": [
     "dist"
   ],
   "scripts": {
     "build": "rollup --config",
+    "dev": "rollup --config --watch",
     "format:check": "prettier --check .",
     "format:write": "prettier --write .",
     "prepare": "husky"
@@ -28,6 +31,7 @@
   "license": "MIT",
   "packageManager": "pnpm@10.8.1",
   "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^12.1.2",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.1",
